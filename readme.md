@@ -29,8 +29,7 @@ FYI: La pokedex es el listado de todos los pokemon con sus nombres e imagenes. P
 - Personaliza la presentación de la información de Pokémon.
 
 debe quedar algo similar a esto:
-[!pokedex](./assets/img/pokedex.png)
-
+![pokedex](./assets/img/pokedex.png)
 
 ### BONUS
 - Crea una segunda página donde se guarden tus pokemon favoritos.
